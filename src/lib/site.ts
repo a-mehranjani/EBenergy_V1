@@ -4,7 +4,7 @@ export const SITE = {
   description:
     "EBenergy designs and deploys commercial battery energy storage systems — peak shaving, grid resilience, and hybrid power — for utilities, industry, and communities.",
   url: "https://ebenergy.tech",
-  email: "admin@ebenergy.tech",
+  email: "info@ebenergy.tech",
   phone: "+44 (415) 555-0148",
   address: {
     line1: "11 Chalk Place",
